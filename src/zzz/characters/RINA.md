@@ -11,6 +11,16 @@ tags:
 
 <!-- #region Introduction -->
 
+<table style="text-align:center">
+	<tr>
+		<td> <img src="https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Role-Icons/丽娜.png" height="130"><br><small style="color:grey;">丽娜</small> </td>
+		<td> <img src="https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Weapons/啜泣摇篮.png" height="130"><br><small style="color:grey;">啜泣摇篮</small> </td>
+		<td> <img src="https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Drive-Disc/自由蓝调.png" height="130"><br><small style="color:grey;">4x 自由蓝调</small> </td>
+		<td> <img src="https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Drive-Disc/河豚电音.png" height="130"><br><small style="color:grey;">2x 河豚电音</small> </td>
+	</tr>
+</table>
+
+<!-- #endregion Introduction -->
 
 丽娜是一位能为全队带来增益效果的代理人。她可以指派玩偶杜苏拉或安娜塔莎发动攻击，并通过这种方式提升队伍中其他角色的穿透率。
 
@@ -29,8 +39,8 @@ tags:
 />
 
 <VPCard
-	title="阵营"
-	desc="维多利亚家政"
+	title="维多利亚家政"
+	desc="阵营"
 	logo="https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Camps/Victoria-Housekeeping.svg"
 	background="rgba(73, 73, 73,0.15)"
 />
@@ -40,8 +50,6 @@ td, th {
 	border: none!important; 
 } 
 </style>
-
-<!-- #endregion Introduction -->
 
 ## 1. 技能加点
 
@@ -66,7 +74,7 @@ td, th {
 
 | | 首选 | 次选 | 第3顺位 |
 | :---: | :---: | :---: | :---: |
-|套装|蓝调4+河豚2|爵士4+河豚2|蓝调2+爵士2+河豚2|
+|套装|![](https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Drive-Disc/自由蓝调.png =80x) ![](https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Drive-Disc/河豚电音.png =80x)<br>蓝调4+河豚2|![](https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Drive-Disc/摇摆爵士.png =80x) ![](https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Drive-Disc/河豚电音.png =80x)<br>爵士4+河豚2|![](https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Drive-Disc/自由蓝调.png =80x) ![](https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Drive-Disc/摇摆爵士.png =80x) ![](https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Drive-Disc/河豚电音.png =80x)<br>蓝调2+爵士2+河豚2|
 |IV位|异常精通>暴率/爆伤|异常精通>暴率/爆伤|异常精通>暴率/爆伤|
 |V位|穿透率|穿透率|穿透率|
 |VI位|能量自动回复|能量自动回复|能量自动回复|
@@ -90,6 +98,6 @@ td, th {
 
 <!-- @include: ../Teams.md#Team1 -->
 
-<!-- @include: ../Teams.md#Team2 -->
+<!-- @include: ../Teams.md#AnbyAntonRina -->
 
 <!-- @include: ../Teams.md#Team3-->

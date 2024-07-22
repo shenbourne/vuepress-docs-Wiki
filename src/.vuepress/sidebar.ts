@@ -5,6 +5,13 @@ export default sidebar({
     "",
     "portfolio",
     {
+      text: "绝区零",
+      icon: "game",
+      prefix: "zzz/",
+      link: "zzz/",
+      children: "structure",
+    },
+    {
       text: "案例",
       icon: "laptop-code",
       prefix: "demo/",

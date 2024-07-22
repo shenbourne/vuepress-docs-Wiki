@@ -1,3 +1,12 @@
+---
+title: 常见配队
+icon: router
+category:
+  - 绝区零
+tags:
+  - Teams
+---
+
 <!-- #region Team1 -->
 
 ### 安比+格莉丝+丽娜
@@ -7,26 +16,26 @@
 |安比|格莉丝|丽娜|
 |:---:|:---:|:---:|
 |![](https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Role-Icons/安比.png =200x)<br><small style="color:grey;">安比</small>|![](https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Role-Icons/格莉丝.png =200x)<br><small style="color:grey;">格莉丝</small>|![](https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Role-Icons/丽娜.png =200x)<br><small style="color:grey;">丽娜</small>|
-|||![](https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Weapons/啜泣摇篮.png =200x)<br><small style="color:grey;">啜泣摇篮</small>|
+||![](https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Weapons/嵌合编译器.png)<br><small style="color:grey;">嵌合编译器</small>|![](https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Weapons/啜泣摇篮.png =200x)<br><small style="color:grey;">啜泣摇篮</small>|
 |震星迪斯科4<br>雷暴重金属2|自由蓝调4<br>雷暴重金属2|自由蓝调4<br>河豚电音2|
 
 <!-- #endregion Team1 -->
 
-<!-- #region Team2 -->
+<!-- #region AnbyAntonRina -->
 
 ### 安比+安东+丽娜
 
-纯电组合，安比打失衡，丽娜为队友提供穿透与电伤，最后切安东进行输出。
+安比前期可站场将敌人打入失衡状态，丽娜的【核心技】为安东提供穿透与增伤，并且能使【感电】延长，让安东更好的触发【核心技】额外能力去结算【感电】伤害。
 
-|安比|安东|丽娜|
-|:---:|:---:|:---:|
-|![](https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Role-Icons/安比.png =200x)<br><small style="color:grey;">安比</small>|![](https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Role-Icons/安东.png =200x)<br><small style="color:grey;">安东</small>|![](https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Role-Icons/丽娜.png =200x)<br><small style="color:grey;">丽娜</small>|
-|||![](https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Weapons/啜泣摇篮.png =200x)<br><small style="color:grey;">啜泣摇篮</small>|
-|震星迪斯科4<br>雷暴重金属2|雷暴重金属4<br>啄木鸟电音2|自由蓝调4<br>河豚电音2|
+<!-- @include: characters/ANBY.md#Introduction -->
+
+<!-- @include: characters/ANTON.md#Introduction -->
+
+<!-- @include: characters/RINA.md#Introduction -->
 
 插头布 or 电击布
 
-<!-- #endregion Team2 -->
+<!-- #endregion AnbyAntonRina -->
 
 <!-- #region Team3 -->
 
