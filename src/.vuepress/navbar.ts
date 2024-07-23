@@ -3,7 +3,7 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   "/",
   "/portfolio",
-  "/demo/",
+  "/zzz/",
   {
     text: "指南",
     icon: "lightbulb",

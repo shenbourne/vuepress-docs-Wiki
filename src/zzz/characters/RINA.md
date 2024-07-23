@@ -7,9 +7,7 @@ tags:
   - Characters
 ---
 
-## 亚历山德丽娜·莎芭丝缇安
-
-<!-- #region Introduction -->
+<!-- #region Intro -->
 
 <table style="text-align:center">
 	<tr>
@@ -20,7 +18,9 @@ tags:
 	</tr>
 </table>
 
-<!-- #endregion Introduction -->
+<!-- #endregion Intro -->
+
+## 亚历山德丽娜·莎芭丝缇安
 
 丽娜是一位能为全队带来增益效果的代理人。她可以指派玩偶杜苏拉或安娜塔莎发动攻击，并通过这种方式提升队伍中其他角色的穿透率。
 
@@ -96,8 +96,17 @@ td, th {
 
 ## 5. 队伍搭配
 
-<!-- @include: ../Teams.md#Team1 -->
+<!-- @include: README.md#AnbyGraceRina -->
+<!-- @include: Anby.md#Intro -->
+<!-- @include: Grace.md#Intro -->
+<!-- @include: Rina.md#Intro -->
 
-<!-- @include: ../Teams.md#AnbyAntonRina -->
+<!-- @include: README.md#AnbyAntonRina -->
+<!-- @include: Anby.md#Intro -->
+<!-- @include: Anton.md#Intro -->
+<!-- @include: Rina.md#Intro -->
 
-<!-- @include: ../Teams.md#Team3-->
+<!-- @include: README.md#LycaonEllenRina -->
+<!-- @include: Lycaon.md#Intro -->
+<!-- @include: Ellen.md#Intro -->
+<!-- @include: Rina.md#Intro -->

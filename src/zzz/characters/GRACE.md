@@ -7,9 +7,7 @@ tags:
   - Characters
 ---
 
-## 格莉丝·霍华德
-
-<!-- #region Introduction -->
+<!-- #region Intro -->
 
 <table style="text-align:center">
 	<tr>
@@ -20,9 +18,11 @@ tags:
 	</tr>
 </table>
 
-<!-- #endregion Introduction -->
+<!-- #endregion Intro -->
 
-丽娜是一位能为全队带来增益效果的代理人。她可以指派玩偶杜苏拉或安娜塔莎发动攻击，并通过这种方式提升队伍中其他角色的穿透率。
+## 格莉丝·霍华德
+
+格莉丝是一位打异常的电属性角色，主要能力就是快速积累电属性异常值，使敌人陷入【感电】状态，攻击使敌人间歇性受到额外电属性伤害。
 
 <VPCard
 	title="电"
@@ -58,7 +58,7 @@ td, th {
 |![](https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Skills/Special-Attack.png =80x)|>|![](https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Skills/Basic-Attack.png =80x)|>|![](https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Skills/Chain-Attack.png =80x)|=|![](https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Skills/Dodgo.png =80x)|=|![](https://cdn.jsdelivr.net/gh/shenbourne/Icon-Hosting-Service@main/zzz/Skills/Assist.png =80x)|
 |12| |9+| |7+| |7+| |7+|
 
-丽娜的增益主要集中在核心技当中，核心技是必须点满的，因此这里并无展示。丽娜作为速切角色，特殊技是主要玩偶出击增加穿透增益的方式，因此可优先点高。
+格莉丝的异常值提升与【感电】伤害提升都是通过特殊技完成的，使用率较高，优先升级；其次格莉丝需要站场普攻为【电能】叠层，也需要点高。
 
 ## 2. 音擎推荐
 
@@ -98,4 +98,7 @@ td, th {
 
 ## 5. 队伍搭配
 
-<!-- @include: ../Teams.md#Team1 -->
+<!-- @include: README.md#AnbyGraceRina -->
+<!-- @include: Anby.md#Intro -->
+<!-- @include: Grace.md#Intro -->
+<!-- @include: Rina.md#Intro -->

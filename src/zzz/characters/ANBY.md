@@ -7,7 +7,7 @@ tags:
   - Characters
 ---
 
-<!-- #region Introduction -->
+<!-- #region Intro -->
 
 <table style="text-align:center">
 	<tr>
@@ -18,4 +18,16 @@ tags:
 	</tr>
 </table>
 
-<!-- #endregion Introduction -->
+<!-- #endregion Intro -->
+
+## 5. 队伍搭配
+
+<!-- @include: README.md#AnbyGraceRina -->
+<!-- @include: Anby.md#Intro -->
+<!-- @include: Grace.md#Intro -->
+<!-- @include: Rina.md#Intro -->
+
+<!-- @include: README.md#AnbyAntonRina -->
+<!-- @include: Anby.md#Intro -->
+<!-- @include: Anton.md#Intro -->
+<!-- @include: Rina.md#Intro -->

@@ -7,9 +7,7 @@ tags:
   - Characters
 ---
 
-## 安东·伊万诺夫
-
-<!-- #region Introduction -->
+<!-- #region Intro -->
 
 <table style="text-align:center">
 	<tr>
@@ -20,7 +18,9 @@ tags:
 	</tr>
 </table>
 
-<!-- #endregion Introduction -->
+<!-- #endregion Intro -->
+
+## 安东·伊万诺夫
 
 安东是一位电属性的强攻角色，具有非常高的爆发伤害，借助核心技感电结算，让安东非常适合与感电角色搭配。不过安东电钻攻击不是很灵活，需要角色将敌人先打入感电或者失衡
 
@@ -100,4 +100,7 @@ td, th {
 
 ## 5. 队伍搭配
 
-<!-- @include: ../Teams.md#AnbyAntonRina -->
+<!-- @include: README.md#AnbyAntonRina -->
+<!-- @include: Anby.md#Intro -->
+<!-- @include: Anton.md#Intro -->
+<!-- @include: Rina.md#Intro -->
