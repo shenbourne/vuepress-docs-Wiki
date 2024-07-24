@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/zzz/characters/Rina.md",
+                "file": "src/zzz/characters/Lycaon.md",
                 "mode": "source",
                 "source": true
               }
@@ -23,8 +23,12 @@
             "id": "6a20e7e624aa839d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "src/zzz/characters/README.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -93,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/zzz/characters/Rina.md",
+                "file": "src/zzz/characters/Lycaon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/zzz/characters/Rina.md",
+                "file": "src/zzz/characters/Lycaon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/zzz/characters/Rina.md"
+                "file": "src/zzz/characters/Lycaon.md"
               }
             }
           }
@@ -156,23 +160,27 @@
   },
   "active": "5ae106213a2190d2",
   "lastOpenFiles": [
+    "node_modules/katex/package.json",
+    "node_modules/has-flag/readme.md",
+    "node_modules/has-flag/license",
+    "node_modules/has-flag/package.json",
+    "node_modules/has-flag/index.js",
+    "node_modules/has-flag",
+    "node_modules/supports-color/index.js",
+    "node_modules/supports-color/package.json",
+    "src/zzz/characters/README.md",
     "src/zzz/characters/Lycaon.md",
+    "src/zzz/characters/Anby.md",
     "src/zzz/characters/Grace.md",
     "src/zzz/characters/Ellen.md",
     "src/zzz/characters/Anton.md",
-    "src/zzz/characters/Anby.md",
+    "src/zzz/characters/Soukaku.md",
+    "src/zzz/characters/Rina.md",
     "src/zzz/README.md",
-    "src/zzz/characters/README.md",
     "node_modules/element-plus/es/components/virtual-list/src/hooks/use-wheel.mjs",
     "node_modules/element-plus/es/components/virtual-list/src/hooks/use-wheel.mjs.map",
     "node_modules/element-plus/es/components/virtual-list/src/hooks/use-wheel.d.ts",
     "node_modules/element-plus/es/components/virtual-list/src/hooks/use-grid-wheel.mjs.map",
-    "node_modules/element-plus/es/components/virtual-list/src/hooks/use-grid-wheel.mjs",
-    "node_modules/element-plus/es/components/virtual-list/src/hooks/use-grid-wheel.d.ts",
-    "node_modules/element-plus/es/components/virtual-list/src/hooks/use-cache.mjs",
-    "node_modules/element-plus/es/components/virtual-list/src/hooks/use-cache.mjs.map",
-    "node_modules/element-plus/es/components/virtual-list/src/hooks/use-cache.d.ts",
-    "node_modules/element-plus/es/components/virtual-list/src/components/scrollbar.mjs.map",
     "node_modules/katex/src/metrics/README.md",
     "node_modules/elkjs/README.md",
     "node_modules/elkjs/LICENSE.md",
@@ -188,11 +196,7 @@
     "node_modules/element-plus/node_modules/@vueuse/core/README.md",
     "node_modules/vant/README.md",
     "node_modules/d3/README.md",
-    "node_modules/async-validator/README.md",
-    "node_modules/d3-selection/README.md",
-    "node_modules/d3-dsv/README.md",
     "node_modules/layout-base/layout-schema.png",
-    "node_modules/layout-base/README.md",
     "node_modules/highlight.js/scss/school-book.png",
     "node_modules/highlight.js/scss/pojoaque.jpg",
     "node_modules/highlight.js/scss/brown-papersq.png",
