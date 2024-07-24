@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/zzz/characters/README.md",
+                "file": "src/zzz/characters/Rina.md",
                 "mode": "source",
                 "source": true
               }
@@ -23,12 +23,8 @@
             "id": "6a20e7e624aa839d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/zzz/characters/Grace.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/zzz/characters/README.md",
+                "file": "src/zzz/characters/Rina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/zzz/characters/README.md",
+                "file": "src/zzz/characters/Rina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/zzz/characters/README.md"
+                "file": "src/zzz/characters/Rina.md"
               }
             }
           }
@@ -158,53 +154,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "44448cd13b9fd413",
+  "active": "5ae106213a2190d2",
   "lastOpenFiles": [
-    "src/README.md~",
-    "src/portfolio.md~",
-    "src/zzz/characters/Soukaku.md",
-    "src/zzz/characters/Rina.md",
-    "src/zzz/characters/Anton.md",
-    "src/zzz/characters/README.md",
-    "src/zzz/README.md",
     "src/zzz/characters/Lycaon.md",
-    "src/zzz/characters/Ellen.md",
-    "src/zzz/characters/Anby.md",
     "src/zzz/characters/Grace.md",
-    "src/zzz/camps/README.md",
-    "src/zzz/camps/Victoria-Housekeeping.md",
-    "src/zzz/Teams.md",
-    "node_modules/@vuepress/plugin-reading-time/node_modules/@vuepress/helper/lib/client/utils/wait.d.ts",
-    "node_modules/@vuepress/plugin-reading-time/node_modules/@vuepress/helper/lib/client/noopModule.js",
-    "node_modules/@vuepress/plugin-reading-time/node_modules/@vuepress/helper/lib/node/bundler/vite/viteHelper.js",
-    "node_modules/@vuepress/plugin-reading-time/node_modules/@vuepress/helper/lib/node/bundler/vite/viteHelper.d.ts",
-    "node_modules/@vuepress/plugin-reading-time/node_modules/@vuepress/helper/lib/node/bundler/vite/mergeViteConfig.js",
-    "node_modules/@vuepress/plugin-reading-time/node_modules/@vuepress/helper/lib/node/bundler/vite/mergeViteConfig.d.ts",
-    "node_modules/@vuepress/plugin-reading-time/node_modules/@vuepress/helper/lib/node/bundler/vite/index.js",
-    "node_modules/@vuepress/plugin-reading-time/node_modules/@vuepress/helper/lib/node/bundler/vite/index.d.ts",
-    "node_modules/@vuepress/plugin-reading-time/node_modules/@vuepress/helper/lib/node/page/text.js",
-    "node_modules/@renovamen/vuepress-plugin-reading-time/README.md",
-    "src/README.md",
-    "src/portfolio.md",
+    "src/zzz/characters/Ellen.md",
+    "src/zzz/characters/Anton.md",
+    "src/zzz/characters/Anby.md",
+    "src/zzz/README.md",
+    "src/zzz/characters/README.md",
+    "node_modules/element-plus/es/components/virtual-list/src/hooks/use-wheel.mjs",
+    "node_modules/element-plus/es/components/virtual-list/src/hooks/use-wheel.mjs.map",
+    "node_modules/element-plus/es/components/virtual-list/src/hooks/use-wheel.d.ts",
+    "node_modules/element-plus/es/components/virtual-list/src/hooks/use-grid-wheel.mjs.map",
+    "node_modules/element-plus/es/components/virtual-list/src/hooks/use-grid-wheel.mjs",
+    "node_modules/element-plus/es/components/virtual-list/src/hooks/use-grid-wheel.d.ts",
+    "node_modules/element-plus/es/components/virtual-list/src/hooks/use-cache.mjs",
+    "node_modules/element-plus/es/components/virtual-list/src/hooks/use-cache.mjs.map",
+    "node_modules/element-plus/es/components/virtual-list/src/hooks/use-cache.d.ts",
+    "node_modules/element-plus/es/components/virtual-list/src/components/scrollbar.mjs.map",
+    "node_modules/katex/src/metrics/README.md",
+    "node_modules/elkjs/README.md",
+    "node_modules/elkjs/LICENSE.md",
+    "node_modules/@kangc/v-md-editor/node_modules/katex/contrib/mhchem/README.md",
+    "node_modules/@kangc/v-md-editor/node_modules/katex/contrib/auto-render/README.md",
+    "node_modules/@kangc/v-md-editor/node_modules/katex/contrib/mathtex-script-type/README.md",
+    "node_modules/@kangc/v-md-editor/node_modules/katex/contrib/copy-tex/README.md",
+    "node_modules/@types/lodash/README.md",
+    "node_modules/@ctrl/tinycolor/README.md",
+    "node_modules/dompurify/README.md",
+    "node_modules/@naturefw/ui-core/README.md",
+    "node_modules/d3-scale/README.md",
+    "node_modules/element-plus/node_modules/@vueuse/core/README.md",
+    "node_modules/vant/README.md",
+    "node_modules/d3/README.md",
+    "node_modules/async-validator/README.md",
+    "node_modules/d3-selection/README.md",
+    "node_modules/d3-dsv/README.md",
+    "node_modules/layout-base/layout-schema.png",
+    "node_modules/layout-base/README.md",
+    "node_modules/highlight.js/scss/school-book.png",
+    "node_modules/highlight.js/scss/pojoaque.jpg",
+    "node_modules/highlight.js/scss/brown-papersq.png",
+    "node_modules/highlight.js/styles/school-book.png",
+    "node_modules/highlight.js/styles/pojoaque.jpg",
+    "node_modules/highlight.js/styles/brown-papersq.png",
+    "node_modules/non-layered-tidy-tree-layout/screenshots/1.png",
     "Pasted image 20240721002052.png",
-    "node_modules/@esbuild/win32-x64/README.md",
-    "node_modules/sass/README.md",
-    "node_modules/vuepress-plugin-md-enhance/README.md",
-    "node_modules/vite/README.md",
-    "node_modules/vite/LICENSE.md",
-    "node_modules/rollup/LICENSE.md",
-    "node_modules/sitemap/CODE_OF_CONDUCT.md",
-    "node_modules/sitemap/CHANGELOG.md",
-    "node_modules/@nodelib/fs.walk/README.md",
-    "node_modules/immutable/README.md",
-    "node_modules/pngjs/coverage/lcov-report/sort-arrow-sprite.png",
-    "node_modules/pngjs/coverage/lcov-report/favicon.png",
-    "node_modules/@vuepress/plugin-back-to-top/lib/client/styles/back-to-top.svg",
-    "node_modules/lit/logo.svg",
-    "node_modules/vuepress-theme-hope/templates/socialMediaIcons/zhihu.svg",
-    "node_modules/vuepress-theme-hope/templates/socialMediaIcons/yy.svg",
-    "node_modules/vuepress-theme-hope/templates/socialMediaIcons/youtube.svg",
-    "node_modules/vuepress-theme-hope/templates/socialMediaIcons/ximalaya.svg",
-    "node_modules/vuepress-theme-hope/templates/socialMediaIcons/youku.svg"
+    "node_modules/pngjs/coverage/lcov-report/sort-arrow-sprite.png"
   ]
 }
