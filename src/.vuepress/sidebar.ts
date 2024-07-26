@@ -14,8 +14,8 @@ export default sidebar({
     {
       text: "Markdown 语法教程",
       icon: "md",
-      prefix: "grammar/Markdown/",
-      link: "grammar/Markdown/",
+      prefix: "Languages/Markdown/",
+      link: "Languages/Markdown/",
       children: "structure",
     },
     {

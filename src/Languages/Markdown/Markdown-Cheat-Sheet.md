@@ -139,7 +139,7 @@ Markdown 速查表提供了所有 Markdown 语法元素的基本解释。如果�
 
 ::::
 
-### [代码块（Fenced Code Block）](Markdown-Extended-Syntax#代码块)
+### [代码块（Fenced Code Block）](Markdown-Extended-Syntax#围栏代码块)
 
 :::: md-demo 点击查看代码
 
@@ -194,5 +194,120 @@ term
 - [x] Write the press release   
 - [ ] Update the website   
 - [ ] Contact the media
+
+::::
+
+## [非正式语法](Markdown-Hacks)
+
+### [下划线（Underline）](Markdown-Hacks#下划线)
+
+:::: md-demo 点击查看代码
+
+Some of these words <ins>will be underlined</ins>.
+
+::::
+
+### [居中 （Center）](Markdown-Hacks#居中 )
+
+:::: md-demo 点击查看代码
+
+<p style="text-align:center">Center this text</p>
+
+::::
+
+### [颜色（Color）](Markdown-Hacks#颜色)
+
+:::: md-demo 点击查看代码
+
+<p style="color:blue">Make this text blue.</p>
+
+::::
+
+### [评论（Comments）](Markdown-Hacks#评论)
+
+:::: md-demo 点击查看代码
+
+Here's a paragraph that will be visible.
+
+[This is a comment that will be hidden.]: # 
+
+And here's another paragraph that's visible.
+
+::::
+
+### [警告（Admonitions）](Markdown-Hacks#警告)
+
+:::: md-demo 点击查看代码
+
+Some of these words <ins>will be underlined</ins>.
+
+::::
+
+### [图像尺寸（Image Size）](Markdown-Hacks#图像尺寸)
+
+:::: md-demo 点击查看代码
+
+<img src="./example.jpg" width="200" height="100">
+
+::::
+
+### [图片说明（Image Captions）](Markdown-Hacks#图片说明)
+
+:::: md-demo 点击查看代码
+
+<figure>
+    <img src="./example.jpg"
+         alt="Albuquerque, New Mexico">
+    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+</figure>
+
+::::
+
+### [链接目标（Underline）](Markdown-Hacks#链接目标)
+
+:::: md-demo 点击查看代码
+
+<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+
+::::
+
+### [符号（Symbols）](Markdown-Hacks#符号)
+
+:::: md-demo 点击查看代码
+
+ &copy;
+
+::::
+
+### [表格格式（Table Formatting）](Markdown-Hacks#表格格式)
+
+:::: md-demo 点击查看代码
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title |
+| Paragraph   | First paragraph. <br><br> Second paragraph. |
+| List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> |
+
+::::
+
+### [## 目录（## Table of Contents）](Markdown-Hacks#目录)
+
+:::: md-demo 点击查看代码
+
+Table of Contents
+
+- [Underline](#underline)
+- [Indent](#indent)
+- [Center](#center)
+- [Color](#color)
+
+::::
+
+### [视频（Underline）](Markdown-Hacks#视频)
+
+:::: md-demo 点击查看代码
+
+[![Image alt text](https://img.youtube.com/vi/YOUTUBE-ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE-ID)
 
 ::::

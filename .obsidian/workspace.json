@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/grammar/Markdown/Markdown-Basic-Syntax.md",
+                "file": "src/Languages/Markdown/Markdown-Hacks.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/grammar/Markdown/Markdown-Hacks.md",
+                "file": "src/Languages/Markdown/Markdown-Cheat-Sheet.md",
                 "mode": "source",
                 "source": true
               }
@@ -37,12 +37,8 @@
             "id": "af29417151d4ea98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/grammar/Markdown/Markdown-Extended-Syntax.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -59,8 +55,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/grammar/Markdown/Markdown-Hacks.md",
-                "mode": "preview",
+                "file": "src/Languages/Markdown/Markdown-Cheat-Sheet.md",
+                "mode": "source",
                 "source": true
               }
             },
@@ -132,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/grammar/Markdown/Markdown-Hacks.md",
+                "file": "src/Languages/Markdown/Markdown-Cheat-Sheet.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/grammar/Markdown/Markdown-Hacks.md",
+                "file": "src/Languages/Markdown/Markdown-Cheat-Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/grammar/Markdown/Markdown-Hacks.md"
+                "file": "src/Languages/Markdown/Markdown-Cheat-Sheet.md"
               }
             }
           }
@@ -195,6 +191,13 @@
   },
   "active": "6a20e7e624aa839d",
   "lastOpenFiles": [
+    "src/Languages/Markdown/Markdown-Hacks.md",
+    "src/Languages/Markdown/Markdown-Cheat-Sheet.md",
+    "Markdown-Hack.md",
+    "src/Languages/Markdown/Markdown-in-Obsidian.md",
+    "src/Languages/Markdown/Markdown-Extended-Syntax.md",
+    "src/Languages/Markdown/Markdown-Basic-Syntax.md",
+    "src/Languages/Markdown/example.jpg",
     "src/grammar/Markdown/Markdown-Basic-Syntax.md",
     "src/grammar/Markdown/Markdown-Hacks.md",
     "src/grammar/Markdown/Markdown-Extended-Syntax.md",
@@ -219,19 +222,13 @@
     "src/zzz/characters/README.md",
     "src/zzz/characters/Lycaon.md",
     "src/grammar",
-    "src/Markdown.md",
     "node_modules/katex/package.json",
-    "node_modules/has-flag/readme.md",
     "node_modules/has-flag/license",
     "node_modules/has-flag/package.json",
     "node_modules/has-flag/index.js",
     "node_modules/has-flag",
     "node_modules/supports-color/index.js",
     "node_modules/supports-color/package.json",
-    "src/zzz/characters/Grace.md",
-    "src/zzz/characters/Ellen.md",
-    "src/zzz/characters/Soukaku.md",
-    "src/zzz/characters/Rina.md",
     "node_modules/layout-base/layout-schema.png",
     "node_modules/highlight.js/scss/school-book.png",
     "node_modules/highlight.js/scss/pojoaque.jpg",
@@ -239,7 +236,6 @@
     "node_modules/highlight.js/styles/school-book.png",
     "node_modules/highlight.js/styles/pojoaque.jpg",
     "node_modules/highlight.js/styles/brown-papersq.png",
-    "node_modules/non-layered-tidy-tree-layout/screenshots/1.png",
-    "Pasted image 20240721002052.png"
+    "node_modules/non-layered-tidy-tree-layout/screenshots/1.png"
   ]
 }

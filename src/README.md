@@ -12,11 +12,11 @@ tagline: Bourne Shen 的 Wiki
 actions:
   - text: 绝区零
     icon: lightbulb
-    link: ./zzz/
+    link: ./Games/zzz/
     type: primary
 
-  - text: 绝区零角色
-    link: ./zzz/characters/
+  - text: Markdown 基本语法
+    link: ./Languages/Markdown/
 
 highlights:
   - header: 易于安装
