@@ -6,6 +6,7 @@
       {
         "id": "0fb988a4242d78a1",
         "type": "tabs",
+        "dimension": 52.20797720797721,
         "children": [
           {
             "id": "5ae106213a2190d2",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/zzz/characters/Lycaon.md",
+                "file": "src/grammar/Markdown/Markdown-Basic-Syntax.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,11 +26,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/zzz/characters/README.md",
+                "file": "src/grammar/Markdown/Markdown-Hacks.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "a5b830170b847f05"
+          },
+          {
+            "id": "af29417151d4ea98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/grammar/Markdown/Markdown-Extended-Syntax.md",
                 "mode": "source",
                 "source": true
               }
             }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "41074f09d242c3f7",
+        "type": "tabs",
+        "dimension": 47.79202279202279,
+        "children": [
+          {
+            "id": "3cc0b5bc22a5cfb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/grammar/Markdown/Markdown-Hacks.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "a5b830170b847f05"
           }
         ]
       }
@@ -97,8 +132,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/zzz/characters/Lycaon.md",
-                "collapseAll": false,
+                "file": "src/grammar/Markdown/Markdown-Hacks.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -114,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/zzz/characters/Lycaon.md",
+                "file": "src/grammar/Markdown/Markdown-Hacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,16 +172,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/zzz/characters/Lycaon.md"
+                "file": "src/grammar/Markdown/Markdown-Hacks.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +193,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5ae106213a2190d2",
+  "active": "6a20e7e624aa839d",
   "lastOpenFiles": [
+    "src/grammar/Markdown/Markdown-Basic-Syntax.md",
+    "src/grammar/Markdown/Markdown-Hacks.md",
+    "src/grammar/Markdown/Markdown-Extended-Syntax.md",
+    "src/grammar/Markdown/Markdown-Cheat-Sheet.md",
+    "src/grammar/Vuepress",
+    "src/grammar/Markdown/example.jpg",
+    "src/grammar/Markdown/README.md",
+    "src/grammar/README.md",
+    "src/grammar/Markdown/Markdown-in-Obsidian.md",
+    "src/zzz/characters/Anton.md",
+    "src/zzz/camps/Victoria-Housekeeping.md",
+    "src/demo/page.md",
+    "src/demo/layout.md",
+    "src/demo/README.md",
+    "src/grammar/Basic-syntax/未命名.md",
+    "src/grammar/Markdown",
+    "src/zzz/camps/README.md",
+    "src/portfolio.md",
+    "src/README.md",
+    "src/zzz/characters/Anby.md",
+    "src/zzz/README.md",
+    "src/zzz/characters/README.md",
+    "src/zzz/characters/Lycaon.md",
+    "src/grammar",
+    "src/Markdown.md",
     "node_modules/katex/package.json",
     "node_modules/has-flag/readme.md",
     "node_modules/has-flag/license",
@@ -168,34 +228,10 @@
     "node_modules/has-flag",
     "node_modules/supports-color/index.js",
     "node_modules/supports-color/package.json",
-    "src/zzz/characters/README.md",
-    "src/zzz/characters/Lycaon.md",
-    "src/zzz/characters/Anby.md",
     "src/zzz/characters/Grace.md",
     "src/zzz/characters/Ellen.md",
-    "src/zzz/characters/Anton.md",
     "src/zzz/characters/Soukaku.md",
     "src/zzz/characters/Rina.md",
-    "src/zzz/README.md",
-    "node_modules/element-plus/es/components/virtual-list/src/hooks/use-wheel.mjs",
-    "node_modules/element-plus/es/components/virtual-list/src/hooks/use-wheel.mjs.map",
-    "node_modules/element-plus/es/components/virtual-list/src/hooks/use-wheel.d.ts",
-    "node_modules/element-plus/es/components/virtual-list/src/hooks/use-grid-wheel.mjs.map",
-    "node_modules/katex/src/metrics/README.md",
-    "node_modules/elkjs/README.md",
-    "node_modules/elkjs/LICENSE.md",
-    "node_modules/@kangc/v-md-editor/node_modules/katex/contrib/mhchem/README.md",
-    "node_modules/@kangc/v-md-editor/node_modules/katex/contrib/auto-render/README.md",
-    "node_modules/@kangc/v-md-editor/node_modules/katex/contrib/mathtex-script-type/README.md",
-    "node_modules/@kangc/v-md-editor/node_modules/katex/contrib/copy-tex/README.md",
-    "node_modules/@types/lodash/README.md",
-    "node_modules/@ctrl/tinycolor/README.md",
-    "node_modules/dompurify/README.md",
-    "node_modules/@naturefw/ui-core/README.md",
-    "node_modules/d3-scale/README.md",
-    "node_modules/element-plus/node_modules/@vueuse/core/README.md",
-    "node_modules/vant/README.md",
-    "node_modules/d3/README.md",
     "node_modules/layout-base/layout-schema.png",
     "node_modules/highlight.js/scss/school-book.png",
     "node_modules/highlight.js/scss/pojoaque.jpg",
@@ -204,7 +240,6 @@
     "node_modules/highlight.js/styles/pojoaque.jpg",
     "node_modules/highlight.js/styles/brown-papersq.png",
     "node_modules/non-layered-tidy-tree-layout/screenshots/1.png",
-    "Pasted image 20240721002052.png",
-    "node_modules/pngjs/coverage/lcov-report/sort-arrow-sprite.png"
+    "Pasted image 20240721002052.png"
   ]
 }

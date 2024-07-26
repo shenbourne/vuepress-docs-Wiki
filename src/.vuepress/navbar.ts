@@ -4,6 +4,7 @@ export default navbar([
   "/",
   "/portfolio",
   "/zzz/",
+  "/grammar/Markdown/",
   {
     text: "指南",
     icon: "lightbulb",

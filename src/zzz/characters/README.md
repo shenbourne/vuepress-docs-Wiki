@@ -3,7 +3,10 @@ title: 角色
 index: false
 icon: book
 category:
-  - 使用指南
+  - 绝区零
+tags:
+  - Characters
+  - Teams
 ---
 
 <style> 

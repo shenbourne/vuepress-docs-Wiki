@@ -12,6 +12,13 @@ export default sidebar({
       children: "structure",
     },
     {
+      text: "Markdown 语法教程",
+      icon: "md",
+      prefix: "grammar/Markdown/",
+      link: "grammar/Markdown/",
+      children: "structure",
+    },
+    {
       text: "案例",
       icon: "laptop-code",
       prefix: "demo/",
